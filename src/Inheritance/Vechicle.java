@@ -33,6 +33,11 @@ class Volva extends Vechicle{
     void drive(){
         System.out.println("Car is driving");
     }
+
+    void hi(){
+
+    }
+
     @Override
     void Start(){
         System.out.println("Start the Volva");
